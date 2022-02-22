@@ -1,0 +1,4 @@
+name: NwMotd
+version: 1.0.0
+main: nw.motd.Main
+author: CuteWesty
